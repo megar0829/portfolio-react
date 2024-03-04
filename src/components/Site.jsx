@@ -2,7 +2,7 @@ import React from 'react'
 
 function Site() {
   return (
-    <div>Site</div>
+    <div id='site'>Site</div>
   )
 }
 
